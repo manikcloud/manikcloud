@@ -1,13 +1,3 @@
-# Varun Kumar Manik - AWS APN Ambassador & DevOps Expert
-
-Welcome to my GitHub repository! I'm Varun Kumar Manik, an AWS APN Ambassador and Manager at Deloitte, specializing in DevOps and DevSecOps. This repository is a reflection of my journey and expertise in AWS, Cloud Computing, and DevOps practices. 
-
-## About Me
-
-- 🌟 **AWS APN Ambassador & Manager at Deloitte**
-- 🚀 **Expertise:** DevOps, DevSecOps, AWS (6X Certified), Cloud Training
-- 📍 **Location:** Kuala Lumpur, Malaysia
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/vkmanik/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
