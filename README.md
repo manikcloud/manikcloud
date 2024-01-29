@@ -14,7 +14,7 @@
 
 I'm an AWS APN Ambassador and Manager at Deloitte, specializing in DevOps and DevSecOps. Passionate about cloud technologies, I love to share my knowledge and insights.
 
-- 💼 &nbsp;Currently leading delivery teams at Deloitte, focusing on Technology Strategy, Cloud Solution Delivery, and IT Infrastructure.
+- 💼 &nbsp;Currently leading delivery teams at one of the Big four, focusing on Technology Strategy, Cloud Solution Delivery, and IT Infrastructure.
 - 🌱 &nbsp;Exploring new advancements in cloud computing and DevOps methodologies.
 - 📝 &nbsp;I regularly write articles on Medium to share my expertise in cloud and DevOps.
 - 🎤 &nbsp;Frequent speaker at industry conferences and webinars.
@@ -26,6 +26,20 @@ I'm an AWS APN Ambassador and Manager at Deloitte, specializing in DevOps and De
 
 As a DevOps and cloud computing specialist, I work with a wide array of technologies and tools, including AWS services, Kubernetes, Docker, Ansible, Terraform, and various CI/CD tools.
 
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftazure/microsoftazure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nagios/nagios-original.svg" title="Nagios" alt="Nagios" width="40" height="40"/>&nbsp;
+</p>
 ---
 
 ### 📚 &nbsp;Latest Blog Posts and Tutorials: 
