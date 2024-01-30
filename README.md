@@ -39,6 +39,7 @@ As a DevOps and cloud computing specialist, I work with a wide array of technolo
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 ### 📚 &nbsp;Latest Blog Posts and Tutorials: 
